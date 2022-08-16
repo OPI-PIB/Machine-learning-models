@@ -24,7 +24,7 @@ Download: [medium model](https://share.opi.org.pl/s/9p32SjLsASgepqz), [large mod
 
 ### ELMo
 
-A language model that is based on the long short-term memory recurrent neural networks presented in Deep contextualized word representations. The Polish-language model can be read by the [AllenNLP](https://github.com/allenai/allennlp).
+A language model that is based on the long short-term memory recurrent neural networks presented in [Deep contextualized word representations](https://arxiv.org/abs/1802.05365). The Polish-language model can be read by the [AllenNLP](https://github.com/allenai/allennlp).
 
 Download: [model](https://share.opi.org.pl/s/KrKRTytyQp7yka9)
 
